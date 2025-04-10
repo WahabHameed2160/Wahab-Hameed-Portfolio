@@ -1,34 +1,9 @@
-# modern_portfolio_v1.0
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![React Version](https://img.shields.io/badge/react-v18.2.0-blue.svg)](https://reactjs.org/)
-[![Figma](https://img.shields.io/badge/Figma-Design-blue?style=flat-square&logo=figma)](https://www.figma.com/)
-
 
 A modern, responsive portfolio template built with HTML, CSS, and JavaScript, designed to showcase your work in a professional and visually appealing manner.
 
 
-## Figma Design
-<img width="1281" alt="Screenshot 2024-08-25 at 10 37 24 AM" src="https://github.com/user-attachments/assets/f873090b-7475-4687-8f82-34c9d05e4527">
-
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/b633a5fc-840a-4aba-ab53-05f7559542ba" alt="IMG_3303" style="width: 200px; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/e13fd02c-4ccd-443f-b2db-66218416ed87" alt="IMG_3304" style="width: 200px; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/6fdec2e1-d1d5-4a52-87d4-68ae6deb5e73" alt="IMG_3305" style="width: 200px; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/28247f27-f437-445f-a5b2-f70e574d407a" alt="IMG_3306" style="width: 200px; margin: 10px;">
-</div>
-<img width="1281" alt="Screenshot 2024-08-25 at 8 53 20 AM" src="https://github.com/user-attachments/assets/5bfa3f73-5927-4882-a42e-c641ac976859">
 
 
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 
 ## Features

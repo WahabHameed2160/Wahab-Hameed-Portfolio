@@ -78,7 +78,7 @@ const Home = () => {
                 onClick={() => {
                   // alert("asjkdhaskj");
                   window.location.href =
-                    "https://www.linkedin.com/in/wahab-hameed-0b0510240 ";
+                    "https://www.linkedin.com/in/wahab-hameed-0b0510240";
                 }}
                 style={{
                   display: "inline-flex",

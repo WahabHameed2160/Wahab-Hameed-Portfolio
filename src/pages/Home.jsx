@@ -30,7 +30,6 @@ const Home = () => {
               display: "flex",
               alignItems: "center",
               justifyContent: "left",
-              // padding: "50px",
             }}
           >
             <Col
@@ -102,23 +101,23 @@ const Home = () => {
               </div>
 
               <div style={{ marginTop: "15px", display: "flex", gap: "15px" }}>
-              <a
-      href="https://www.linkedin.com/in/wahab-hameed-0b0510240"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-          src={linkdin}
-        alt="LinkedIn"
-        style={{
-          width: '30px',
-          height: '30px',
-          cursor: 'pointer',
-          transition: '0.3s',
-          filter: 'grayscale(50%)',
-        }}
-      />
-    </a>
+                <a
+                  href="https://www.linkedin.com/in/wahab-hameed-0b0510240"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src={linkdin}
+                    alt="LinkedIn"
+                    style={{
+                      width: "30px",
+                      height: "30px",
+                      cursor: "pointer",
+                      transition: "0.3s",
+                      filter: "grayscale(50%)",
+                    }}
+                  />
+                </a>
                 {/* <a
                   href="https://yourwebsite.com"
                   target="_blank"
@@ -136,11 +135,11 @@ const Home = () => {
                     }}
                   />
                 </a> */}
-               <a
-  href="https://wa.me/923264332160"
-  target="_blank"
-  rel="noopener noreferrer"
->
+                <a
+                  href="https://wa.me/923264332160"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img
                     src={insta}
                     alt="Instagram"
@@ -150,7 +149,7 @@ const Home = () => {
                       cursor: "pointer",
                       transition: "0.3s",
                       filter: "grayscale(50%)",
-                      paddingBottom:"-2px"
+                      paddingBottom: "-2px",
                     }}
                   />
                 </a>

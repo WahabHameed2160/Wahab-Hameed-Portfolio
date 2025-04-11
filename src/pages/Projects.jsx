@@ -118,7 +118,7 @@ const Projects = () => {
               paddingBottom: "30px",
             }}
           >
-            Recent Top <strong className="yellow">Works</strong>
+            Recent <strong className="yellow">Project's</strong>
           </h2>
         </h1>
         <p style={{ color: "white" }}>

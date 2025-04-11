@@ -208,8 +208,7 @@ const Skillset = () => {
               paddingBottom: "30px",
             }}
           >
-            A dedicated journey toward enhancing software quality through
-            strategic testing.
+          Because quality isn’t optional — it’s my priority.
           </p>
           <div
             style={{
@@ -217,9 +216,9 @@ const Skillset = () => {
             }}
           >
             <h3>
-              <strong>Fahad Tech Solution</strong>
+              <strong>Wahab Hameed | SQA Engineer</strong>
             </h3>
-            <i>Software Quality Assurance Engineer (March 2024 - Present)</i>
+            <i>Ensuring flawless user experiences through rigorous manual & automation testing (December 2023 – Present)</i>
             <ul style={{ paddingTop: "20px" }}>
               <li style={{ marginBottom: "10px" }}>
                 <strong>Quality-Driven Approach</strong> – I prioritize

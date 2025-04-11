@@ -122,7 +122,7 @@ const Projects = () => {
           </h2>
         </h1>
         <p style={{ color: "white" }}>
-        "Just sharing a few of the projects I've worked on lately — there are many more that I haven’t showcased yet!
+        Just sharing a few of the projects I've worked on lately — there are many more that I haven’t showcased yet!
         </p>
 
         {/* Responsive Grid for Projects */}

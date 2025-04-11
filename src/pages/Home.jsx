@@ -25,11 +25,12 @@ const Home = () => {
         <Particle />
         <Container className="home-content">
           <Row
+            className="p-0  p-md-5"
             style={{
               display: "flex",
               alignItems: "center",
               justifyContent: "left",
-              padding: "50px",
+              // padding: "50px",
             }}
           >
             <Col
